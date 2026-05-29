@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hallo, ich bin Adam! 👋
 
-<!--
-**Adam-2005/Adam-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Fachinformatiker für Anwendungsentwicklung und interessiere mich fürs Programmieren sowie für die Nutzung von KI im Alltag als auch auf der Arbeit.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technische Schwerpunkte
+
+### Sprachen
+
+* **PHP**
+* **Java**
+* **SQL**
+* Python
+
+### Frameworks & Tools
+
+* **Laravel**
+* **Livewire**
+* **Vaadin**
+* **Hibernate**
+* Arduino
+* **Hermes Agent**
+* N8N
+
+---
+
+## 💡 Fokus
+
+* **Full-Stack-Entwicklung**
+* **KI**
+
+---
+
+## 📈 GitHub
+
+Schau dir gerne meine Repositories an!
