@@ -1,6 +1,6 @@
 # Hallo, ich bin Adam! 👋
 
-Ich bin Fachinformatiker für Anwendungsentwicklung und interessiere mich fürs Programmieren sowie für die Nutzung von KI im Alltag als auch auf der Arbeit.
+Ich bin Fachinformatiker für Anwendungsentwicklung (in Ausbildung) und interessiere mich fürs Programmieren sowie für die Nutzung von KI im Alltag als auch auf der Arbeit.
 
 ---
 
