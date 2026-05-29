@@ -29,9 +29,3 @@ Ich bin Fachinformatiker für Anwendungsentwicklung (in Ausbildung) und interess
 
 * **Full-Stack-Entwicklung**
 * **KI**
-
----
-
-## 📈 GitHub
-
-Schau dir gerne meine Repositories an!
