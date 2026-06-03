@@ -1,6 +1,6 @@
 # Hi, I'm Adam! 👋
 
-I am an apprentice IT Specialist for Application Development (FISI).
+I am an apprentice IT Specialist for Application Development.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, Java, PHP, SQL
