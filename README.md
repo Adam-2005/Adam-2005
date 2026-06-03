@@ -1,31 +1,13 @@
-# Hallo, ich bin Adam! 👋
+# Hi, I'm Adam! 👋
 
-Ich bin Fachinformatiker für Anwendungsentwicklung (in Ausbildung) und interessiere mich fürs Programmieren sowie für die Nutzung von KI im Alltag als auch auf der Arbeit.
+I am an apprentice IT Specialist for Application Development.
 
----
+## 🛠 Tech Stack
+- **Languages:** Python, Java, PHP, SQL
+- **Frameworks & Tools:** Laravel, Livewire, Vaadin, Hibernate, Hermes Agent, N8N
 
-## 🛠 Technische Schwerpunkte
-
-### Sprachen
-
-* **PHP**
-* **Java**
-* **SQL**
-* Python
-
-### Frameworks & Tools
-
-* **Laravel**
-* **Livewire**
-* **Vaadin**
-* **Hibernate**
-* Arduino
-* **Hermes Agent**
-* N8N
+## 👗 Focus
+- Full-Stack Development
+- Artificial Intelligence
 
 ---
-
-## 💡 Fokus
-
-* **Full-Stack-Entwicklung**
-* **KI**
