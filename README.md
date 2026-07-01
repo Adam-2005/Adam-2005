@@ -6,7 +6,7 @@ I am an apprentice IT Specialist for Application Development.
 - **Languages:** Python, Java, PHP, SQL
 - **Frameworks & Tools:** Laravel, Livewire, Vaadin, Hibernate, Hermes Agent, N8N
 
-## 👗 Focus
+## 🔎 Focus
 - Full-Stack Development
 - Artificial Intelligence
 
